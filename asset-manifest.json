@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c02912f.css",
-    "main.js": "/static/js/main.e9e41411.js",
+    "main.css": "/static/css/main.a9a25f1f.css",
+    "main.js": "/static/js/main.04a4316a.js",
     "static/js/578.f8751b17.chunk.js": "/static/js/578.f8751b17.chunk.js",
     "static/js/828.20df2bf6.chunk.js": "/static/js/828.20df2bf6.chunk.js",
     "static/js/299.8642125b.chunk.js": "/static/js/299.8642125b.chunk.js",
@@ -24,7 +24,6 @@
     "static/media/potion.png": "/static/media/potion.d9b2de227a965e77d29f.png",
     "static/media/merch.png": "/static/media/merch.b82aa89039b91a2b59d7.png",
     "static/media/GnarStaking.png": "/static/media/GnarStaking.7e986e667b3027a018ff.png",
-    "static/media/FoxBG.png": "/static/media/FoxBG.9adc07d5a425f4f85725.png",
     "static/media/launchcrop.png": "/static/media/launchcrop.fe150b9bc6fb212091ba.png",
     "static/media/apply.png": "/static/media/apply.6b001768941c4964229e.png",
     "static/media/k24logo.png": "/static/media/k24logo.4b6939ac5a6ad3b2ceff.png",
@@ -38,6 +37,7 @@
     "static/media/mintfox.png": "/static/media/mintfox.0fa06b8bf94b099db522.png",
     "static/media/eddFoxLogo.png": "/static/media/eddFoxLogo.0acb290b0b84c7532379.png",
     "static/media/feed.png": "/static/media/feed.8a1b038463a0ff286331.png",
+    "static/media/WebArt.jpg": "/static/media/WebArt.f6f874b65ac9b0b4f7d8.jpg",
     "static/media/gnarbg.png": "/static/media/gnarbg.fa714dd6537ea8706332.png",
     "static/media/ladiez.png": "/static/media/ladiez.f3eea165fc198bffd335.png",
     "static/media/nftc.png": "/static/media/nftc.77985f704d8fd24e725c.png",
@@ -74,8 +74,8 @@
     "static/media/tyler.jpg": "/static/media/tyler.93e2bdc071d8c5d2a4a8.jpg",
     "static/media/Discord.png": "/static/media/Discord.6b1207b760c6fc8861c6.png",
     "index.html": "/index.html",
-    "main.4c02912f.css.map": "/static/css/main.4c02912f.css.map",
-    "main.e9e41411.js.map": "/static/js/main.e9e41411.js.map",
+    "main.a9a25f1f.css.map": "/static/css/main.a9a25f1f.css.map",
+    "main.04a4316a.js.map": "/static/js/main.04a4316a.js.map",
     "578.f8751b17.chunk.js.map": "/static/js/578.f8751b17.chunk.js.map",
     "828.20df2bf6.chunk.js.map": "/static/js/828.20df2bf6.chunk.js.map",
     "299.8642125b.chunk.js.map": "/static/js/299.8642125b.chunk.js.map",
@@ -84,7 +84,7 @@
     "114.4a58aff2.chunk.js.map": "/static/js/114.4a58aff2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c02912f.css",
-    "static/js/main.e9e41411.js"
+    "static/css/main.a9a25f1f.css",
+    "static/js/main.04a4316a.js"
   ]
 }
